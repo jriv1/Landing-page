@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+}
+.firstbox{
+    background-color:#1F2937;
+    color: white;
+}
+
+.linkban{
+    color: white;
+    text-decoration: none;
+}
+.herotext{
+    font-size: 48px;
+}
+.header-logo-text{
+    font-size: 24px;
+}
+.info-text{
+    font-size:36px;
+}
+.weiner-img{
+    width: 500px;
+    height: 250px;
+    object-fit: contain;
+}
+.firstbox-btn{
+    background-color: #3882F6;
+    color: white;
+    border-radius:8px;
+    width: 80px;
+    height: 24px;
+    border: 0;
+    padding:0; 
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left:100px;
+    padding-right: 100px;
+}
+.header-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 18px;
+    padding-right: 72px;
+}
+.firstbox-content{
+    padding: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+}
+.firstbox-img{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.secondbox{
+    padding:100px;
+    justify-content: center;
+}
+.secondbox-text{
+    display: flex;
+    justify-content: center;
+    
+}
+.secondbox-images{
+    display: flex;
+    justify-content:center;
+     gap: 8px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 200x;
+    height: 200px;
+}
+
+.thirdbox{
+    display: flex;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    justify-content: center;
+
+    padding: 80px;  
+
+}
+.thirdbox-text{
+    display: flex;
+    width: 40%;
+    justify-content: center;
+ 
+}
+.author{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-self: flex-end;
+}
+
+
+
+.fourthbox{
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+
+}
+.inner4thbox{
+    background-color:#3882F6;
+    padding: 20px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 60%;
+    
+}
+.fourthbox-text{
+   color: white;
+}
+.fourth-btn{
+    display: flex;
+     
+}
+.fourth-btn-1{
+    background-color: #3882F6;
+    color: white;
+    border-radius: 8px;
+    padding:0;
+    border-color: white;
+    width: 100px;
+    height: 30px;
+}
+
+.footer{
+    background-color:#1F2937;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
